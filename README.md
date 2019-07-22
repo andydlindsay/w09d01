@@ -29,15 +29,18 @@
 3. Push starting node onto the stack
 
 While the stack is not empty
+
 4. Peek the top off the stack
 5. Find the neighbours of that node
 
 If there are neighbours that haven't been visited
+
 6. Choose a random neighbour that hasn't been visited
 7. Both nodes make reference to each other
 8. Push new node onto the stack
 
 If there are no neighbours to visit
+
 9. Pop the node off the stack
 
 ### Useful Links
