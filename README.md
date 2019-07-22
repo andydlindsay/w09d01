@@ -1,7 +1,7 @@
 # W09D01 Data Structures & Algorithms
 
 ### To Do
-- [ ] Implement a maze generating algorithm
+- [x] Implement a maze generating algorithm
 
 ## Algorithm
 
@@ -39,3 +39,9 @@ If there are neighbours that haven't been visited
 
 If there are no neighbours to visit
 9. Pop the node off the stack
+
+### Useful Links
+
+* [Algorithms](https://en.wikipedia.org/wiki/Algorithm)
+* [JavaScript Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
+* [Stack](https://en.wikipedia.org/wiki/Stack_(abstract_data_type))
