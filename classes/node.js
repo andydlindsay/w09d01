@@ -7,5 +7,6 @@ module.exports = class Node {
     this.right = null;
     this.below = null;
     this.left = null;
+    this.active = false;
   }
 };

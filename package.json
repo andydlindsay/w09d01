@@ -1,0 +1,23 @@
+{
+  "name": "w09d01",
+  "version": "1.0.0",
+  "description": "### To Do - [ ] Implement a maze generating algorithm",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andydlindsay/w09d01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andydlindsay/w09d01/issues"
+  },
+  "homepage": "https://github.com/andydlindsay/w09d01#readme",
+  "dependencies": {
+    "chalk": "^2.4.2"
+  }
+}
